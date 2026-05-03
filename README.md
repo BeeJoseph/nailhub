@@ -6,7 +6,7 @@ Z Number: **Z23746689**
 
 This web app: **NailHub is a community forum for nail enthusiasts to share tips, designs, and techniques. Users can create posts about gel-x, hard gel, acrylic, lacquer, nail shapes, nail regeneration, and more. Posts support images, upvotes, and comments. The app includes full user authentication and AI-generated post summaries.**
 
-Deployed at: **[your-netlify-url-here]**
+Deployed at: **https://prismatic-medovik-fc1349.netlify.app/**
 
 Time spent: **5** hours spent in total
 
