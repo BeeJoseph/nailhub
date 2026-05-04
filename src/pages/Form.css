@@ -16,6 +16,15 @@
   color: #2d1b24;
 }
 
+.error {
+  color: #c44;
+  font-size: 0.85rem;
+  background: #fff0f0;
+  border: 1px solid #e8c0c0;
+  border-radius: 8px;
+  padding: 8px 12px;
+}
+
 .post-form {
   display: flex;
   flex-direction: column;
